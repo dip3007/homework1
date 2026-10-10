@@ -3,6 +3,7 @@
 #define MAX 100
 
 // Прототипы функций
+//   имя ф. параметры
 void input(int a[], int n);
 void print(const int a[], int n);
 int minVal(const int a[], int n);
